@@ -77,6 +77,7 @@ public class MyCalc {
 
 ```
 点击 File-> Project Structure
+
 ![img_2.png](img_2.png)
 按以下步骤勾选：工件->加号->JAR->来自具有依赖项的模块中
 
