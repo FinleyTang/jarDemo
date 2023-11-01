@@ -79,11 +79,13 @@ public class MyCalc {
 点击 File-> Project Structure
 
 ![img_2.png](img_2.png)
+
 按以下步骤勾选：工件->加号->JAR->来自具有依赖项的模块中
 
 ![img_1.png](img_1.png)
 
 接下来：选中Build ->build Artifacts, 弹出选项点击build即可：
+
 ![img_3.png](img_3.png)
 
 在out下面生成jar包，使用  java -jar .\jarDemo_jar\jarDemo.jar命令运行看看：
